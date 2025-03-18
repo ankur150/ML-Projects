@@ -1,0 +1,1 @@
+We applied K-Means clustering on Facebook Live Sellers data to group posts based on engagement metrics. Preprocessing techniques included Label Encoding and Standardization (using StandardScaler for numerical features). Using the Elbow Method, we determined k=3, trained the model, and visualized clusters and centroids.
